@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "Product 1",
+    "price": 30,
+    "rating": "3",
+    "description": "Some text for description",
+    "category": "Category 1",
+    "isInStock": true
+  },
+  {
+    "id": "2",
+    "name": "Product 2",
+    "price": 500,
+    "rating": "55",
+    "description": "Some text for description",
+    "category": "Category 2",
+    "isInStock": false
+  },
+  {
+    "id": "fa784edd-1049-4e3a-b73d-645918776ec4"
+  },
+  {
+    "id": "cf5631cf-a967-4ad4-af4c-7cd0e79ff814"
+  }
+]

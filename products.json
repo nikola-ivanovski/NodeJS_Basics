@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "name": "Product 1",
+    "price": 30,
+    "rating": "3",
+    "description": "Some text for description",
+    "category": "Category 1",
+    "isInStock": true
+  },
+  {
+    "id": "2",
+    "name": "Product 2",
+    "price": 500,
+    "rating": "55",
+    "description": "Some text for description",
+    "category": "Category 2",
+    "isInStock": false
+  },
+  {
+    "id": "8f383a01-0868-440b-bf04-3fa1bf8e0032"
+  }
+]
